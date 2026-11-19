@@ -3,6 +3,7 @@
 109 tricky multiple-choice questions on Data Mining & Machine Learning, Lectures 1–6.
 
 - **Interactive version:** open `index.html` in a browser (download it, or use GitHub Pages if the repo is public). It has shuffling, a per-lecture filter, scoring and a 'retry wrong answers' mode.
+- **Revision notes:** [CRAM-SHEET.md](CRAM-SHEET.md), a condensed summary of Lectures 1–6 with the traps marked ⚠️.
 - **Here:** answers are hidden. Click ▶ to reveal each one.
 
 ## Contents
